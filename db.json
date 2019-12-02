@@ -1,4 +1,11 @@
 {
-    "id": 0,
-    "label": "test"
+    "besoins": [{
+            "id": 0,
+            "label": "test1"
+        },
+        {
+            "id": 1,
+            "label": "test2"
+        }
+    ]
 }
